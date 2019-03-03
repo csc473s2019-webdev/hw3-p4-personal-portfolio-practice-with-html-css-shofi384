@@ -1,0 +1,44 @@
+body {
+	background-color: #d3e4ff;
+	text-align: center;
+	margin: 5%;
+}
+
+fieldset {
+	display: inline-block;
+	margin: 3%;
+	float: center;
+	width: 250px;
+	background-color: #eeefde;
+	font-size: 20px;
+}
+
+input {
+	background-color: #eeefde;
+	margin: 1%;
+	border-left: 10px;
+	height: 20px;
+	font-size: 15px;
+}
+
+select {
+	margin: 3%;
+	height: 30px;
+	width: 90px;
+	font-size: 15px;
+	background-color: #eeefde;
+}
+
+#submit {
+	margin: 5%;
+	background-color: #81d39c;
+	height: 35px;
+	width: 20%;
+	border-radius: 20px;
+	font-size: 150%;
+	color: #2e543a;
+}
+
+textarea {
+	background-color: #eeefde;
+}
