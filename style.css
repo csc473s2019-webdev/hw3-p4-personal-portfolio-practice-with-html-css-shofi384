@@ -1,3 +1,6 @@
+a:hover {
+  color: #ffe138;
+}
 body {
 	background-color: #d3e4ff;
 	text-align: center;
@@ -22,13 +25,17 @@ input {
 }
 
 #navbar {
-  float: right;
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  background-color: #111;
+	display: inline-block;
+	background-color: #334c75;
+	width: 100%;
+}
+
+.navItem {
+	margin: 2%;
+	float: right;
+	color: #82e8ff;
+	font-size: 20px;
+
 }
 
 select {
